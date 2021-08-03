@@ -22,9 +22,9 @@
 
 ### Editores de código
 
-	[Sublime Text]: <https://www.sublimetext.com/>   
-	[Visual Studio Code]: <https://code.visualstudio.com/>
-	[Atom]: <https://atom.io/>
+Sublime Text: <https://www.sublimetext.com/>   
+Visual Studio Code: <https://code.visualstudio.com/>    
+Atom: <https://atom.io/>
 
 
 ## Sintáxis
@@ -48,6 +48,6 @@
 
     <elemento atributo="valor">
     	objeto
-		</elemento>
+	</elemento>
 
 

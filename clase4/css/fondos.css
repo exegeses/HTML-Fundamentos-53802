@@ -1,0 +1,23 @@
+body{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;    
+}
+header{
+    height: 150px;
+    background-color: rgb(191, 255, 243);
+    background-image: url(https://images.unsplash.com/photo-1506477331477-33d5d8b3dc85?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=2425&q=80);
+    background-position: center center;
+}
+nav{
+
+}
+main{
+    min-height: 500px;
+    width: 800px;
+    margin: auto;
+    
+}
+    h1{
+        background-image: url(../imagenes/pattern_japanese-pattern-5_1_2_0-0_0_1__ffffff_805ad5.png);
+        background-repeat: no-repeat;
+        padding-left: 35px;
+    }
